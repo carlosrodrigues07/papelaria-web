@@ -11,7 +11,7 @@ O site inclui:
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML, CSS e JavaScript para o frontend
+- HTML e CSS
 
 <h2 id="contributors">🤝 Colaboradores</h2>
 
