@@ -36,7 +36,7 @@ O site inclui:
       <a href="https://github.com/thyagooof">
         <img src="https://avatars.githubusercontent.com/u/133378047?v=4" width="120" alt="Thiago.of" style="border-radius: 50%;">
       </a>
-      <p><strong>Thyago.de</strong></p>
+      <p><strong>Thyago Oliveira</strong></p>
       <a href="https://github.com/thyagooof">Perfil no GitHub</a>
     </td>
     <td align="center">
@@ -44,5 +44,12 @@ O site inclui:
         <img src="https://avatars.githubusercontent.com/u/187982740?v=4" width="120" alt="Paulo Moura" style="border-radius: 50%;">
       </a>
       <p><strong>Paulo Moura</strong></p>
+      <a href="https://github.com/paulomoura24">Perfil no GitHub</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevLuanaAlves">
+        <img src="https://avatars.githubusercontent.com/u/187982740?v=4" width="120" alt="Luana Alves" style="border-radius: 50%;">
+      </a>
+      <p><strong>Luana Alves</strong></p>
       <a href="https://github.com/paulomoura24">Perfil no GitHub</a>
     </td>
