@@ -48,7 +48,7 @@ O site inclui:
     </td>
     <td align="center">
       <a href="https://github.com/DevLuanaAlves">
-        <img src="https://avatars.githubusercontent.com/u/187982740?v=4" width="120" alt="Luana Alves" style="border-radius: 50%;">
+        <img src="https://avatars.githubusercontent.com/u/208209210?v=4" width="120" alt="Luana Alves" style="border-radius: 50%;">
       </a>
       <p><strong>Luana Alves</strong></p>
       <a href="https://github.com/DevLuanaAlves">Perfil no GitHub</a>
