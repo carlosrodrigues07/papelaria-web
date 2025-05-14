@@ -51,5 +51,5 @@ O site inclui:
         <img src="https://avatars.githubusercontent.com/u/187982740?v=4" width="120" alt="Luana Alves" style="border-radius: 50%;">
       </a>
       <p><strong>Luana Alves</strong></p>
-      <a href="https://github.com/paulomoura24">Perfil no GitHub</a>
+      <a href="https://github.com/DevLuanaAlves">Perfil no GitHub</a>
     </td>
