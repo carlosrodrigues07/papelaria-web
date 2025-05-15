@@ -758,6 +758,13 @@ footer {
         z-index: 1000;
     }
 
+    .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 30px;
+    margin: 0px 80px 0px;
+    }
+
     .menu-toggle {
         display: block;
         cursor: pointer;
